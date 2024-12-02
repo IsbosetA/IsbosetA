@@ -120,4 +120,5 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 ## Github STATS :cyclone: !
 
 ![Isboset's github stats](https://github-readme-stats.vercel.app/api?username=IsbosetA&show_icons=true&theme=radical)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=IsbosetA&theme=material-palenight)](https://github.com/IsbosetA)
 <br>
