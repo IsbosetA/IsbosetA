@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Isboset Nuñez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/OY-DSprxSYIAAAAC/mi-logo-animado.gif" />
+
 🌟 ***About Me*** 🌟
 
 I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I used AlpineJs, Tailwind CSS, and Laravel to lead and develop projects. As the Programming Team Supervisor, I assisted my teammates in solving problems and managed multiple projects simultaneously. 🚀 I’m known for my quick learning skills, teamwork, organization, punctuality, and dedication, which allow me to deliver effective and high-quality solutions. ✅✨
