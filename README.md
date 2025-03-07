@@ -8,7 +8,7 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 
 📚 Currently, I’m studying Computer Engineering, where I’ve learned a lot and strive to apply that knowledge to my projects.
 
-💻 I’m also learning NestJS!
+💻 I’m also learning NestJS and React Js!
 
 🌱 I’m open to collaborating on open-source projects or contributing as a team member.
 
