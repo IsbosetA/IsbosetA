@@ -8,7 +8,7 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 
 📚 Currently, I’m studying Computer Engineering, where I’ve learned a lot and strive to apply that knowledge to my projects.
 
-💻 I’m also learning NestJS and React Js!
+💻 I’m also learning NestJS!
 
 🌱 I’m open to collaborating on open-source projects or contributing as a team member.
 
@@ -91,6 +91,7 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
