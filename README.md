@@ -121,7 +121,12 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 </p>
 
 ## Github STATS :cyclone: !
-
-![Isboset's github stats](https://github-readme-stats.vercel.app/api?username=IsbosetA&show_icons=true&theme=radical)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=IsbosetA&theme=material-palenight)](https://github.com/IsbosetA)
+<div align="center">
+  
+  ![Lenguajes mas usados, Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsbosetA\&layout=donut&theme=great-gatsby&show_icons=true_align="center")
+  <br>
+  ![Isboset's github stats](https://github-readme-stats.vercel.app/api?username=IsbosetA&show_icons=true&theme=radical)
+  <br>
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=IsbosetA&theme=material-palenight)](https://github.com/IsbosetA)
+<div align="center">
 <br>
