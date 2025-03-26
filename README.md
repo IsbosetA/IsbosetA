@@ -32,14 +32,20 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 <a href="https://www.youtube.com/@bifrost-dev2514" >
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
+
 <br>
+
 ## Check out my Portfolio
+
+<br>
+
 <a href="https://www.freelancer.es/u/Isboset" >
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer">
 </a>
 <a href="https://www.behance.net/bifrostdev" >
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 </a>
+
 <br>
 <br>
 
