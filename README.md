@@ -34,7 +34,7 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 </a>
 
 <br>
-
+<!--
 ## Check out my Portfolio
 
 <br>
@@ -45,7 +45,7 @@ I’m a Full Stack Developer with 1 year of experience at Redmasiva, where I use
 <a href="https://www.behance.net/bifrostdev" >
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 </a>
-
+-->
 <br>
 <br>
 
